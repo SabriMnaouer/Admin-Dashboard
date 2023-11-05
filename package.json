@@ -51,12 +51,6 @@
     "test": "DISABLE_ESLINT_PLUGIN=true react-scripts test",
     "eject": "DISABLE_ESLINT_PLUGIN=true react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
